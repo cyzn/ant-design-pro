@@ -13,7 +13,7 @@ pipeline {
     KUBECONFIG_CREDENTIAL_ID = 'kubeconfig-id'
     DOCKERHUB_NAMESPACE = 'kubesphere'
     GTIHUB_ACCOUNT = 'kubesphere'
-    APP_NAME = 'devops-docs-sample'
+    APP_NAME = 'ant-design-pro'
   }
   stages {
     stage('checkout scm') {
